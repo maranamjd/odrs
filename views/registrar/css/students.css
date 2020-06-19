@@ -1,0 +1,26 @@
+* {box-sizing: border-box;}
+
+/* Style the input container */
+.input-container {
+  display: flex;
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+/* Style the form icons */
+.icon {
+  padding-top: 15px;
+  background: maroon;
+  color: white;
+  min-width: 30px;
+  text-align: center;
+
+}
+
+/* Style the input fields */
+.input-field {
+  width: 100%;
+  padding: 7px;
+  outline: none;
+  cursor: default;
+}

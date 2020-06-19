@@ -1,0 +1,11 @@
+{
+  "name": "odrs",
+  "version": "1.0.0",
+  "description": "Online Document Request",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TBG",
+  "license": "ISC"
+}

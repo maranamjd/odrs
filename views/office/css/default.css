@@ -1,0 +1,19 @@
+#studentList{
+position: fixed;
+width: 60%;
+}
+#studentList ul{
+  margin-top: none;
+  background-color: #eee;
+  cursor: pointer;
+}
+#studentList ul li{
+  padding: 5px;
+}
+#studentList ul li:hover{
+  background-color: #dbdbdb;
+}
+.notFound{
+  padding: 5px;
+
+}
